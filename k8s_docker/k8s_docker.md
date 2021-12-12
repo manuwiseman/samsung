@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=toTe2RYLbSo nginx, unlike apache, can't embed se
 
 
 docker 从入门到精通: https://mp.weixin.qq.com/s/q00XXglhGggrfeFHTuJ9oQ
+
+docker vs VM, each VM requires a full guest Operating System, and docker doesn't, so docker is faster, occupy less space and memory
